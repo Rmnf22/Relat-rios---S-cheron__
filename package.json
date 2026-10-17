@@ -1,0 +1,1 @@
+{"name":"secheron-report-offline","version":"2.1.0","private":true,"type":"module","scripts":{"build":"node scripts/build-portable.mjs","test":"node tests/distribution.mjs && node tests/numbering.mjs"},"engines":{"node":">=24"}}

@@ -1,0 +1,17 @@
+{
+ "id":"./",
+ "name":"Sécheron Relatórios Técnicos",
+ "short_name":"Relatórios",
+ "description":"Relatórios de campo e laboratório, com edição e PDF disponíveis offline.",
+ "lang":"pt-BR",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#f3f5f4",
+ "theme_color":"#008b61",
+ "prefer_related_applications":false,
+ "icons":[
+  {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+  {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+ ]
+}
